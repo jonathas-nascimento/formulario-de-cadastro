@@ -7,3 +7,7 @@ Em telas menores:
 
 ![image](https://user-images.githubusercontent.com/104573779/218229443-50a28535-fee0-45e0-af73-1708af423fe7.png)
 
+Foi adicionado uma barra de rolagem para os celulares:
+
+![image](https://user-images.githubusercontent.com/104573779/218229892-802bd33b-a46c-461a-a1a5-be177da14320.png)
+
